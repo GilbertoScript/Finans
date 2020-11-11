@@ -1,0 +1,22 @@
+#nav-principal {
+	font-size: 17px;
+}
+
+#nav-principal ul li .a-nav:hover {
+	color: white;
+	border-bottom: 1px solid white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+footer p .a-nav:hover {
+	color: white !important;
+	border-bottom: 1px solid white !important;
+}
